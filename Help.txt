@@ -1,0 +1,17 @@
+Hi
+
+networkKill is an app like WifiKill in android and you can kill any connection with your iDevice
+
+to use :
+
+after download this project from github in terminal run these command to install and run NetworkKill
+
+1 - sh install.sh
+2 - sh scan.sh
+3 - python kill.py [target IP]
+
+programming by iProgrammer
+
+twitter : h_iprogramer
+
+github : https://github.com/h-iprogramer/networkKill-IOS

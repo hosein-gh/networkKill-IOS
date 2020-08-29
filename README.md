@@ -1,7 +1,7 @@
 # networkKill-IOS
 Network Kill is a tool for killing wifi and any network connection by iDevices (iPhone,iPad,iPod) like WifiKill  
 
-## Ho To Use :
+## How To Use :
 On a jailbroken device
 
 download this project from github then in terminal App run these command to install and run NetworkKill
